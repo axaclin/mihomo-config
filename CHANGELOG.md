@@ -11,6 +11,11 @@
 
 # 📜 更新日志
 
+## Loon home-domain migration (2026-11-06)
+
+- Add a sanitized home-domain suffix rule example using the existing Seoul-AI policy.
+- Production Mac and iPhone rules migrate only the home domain; the separate cloud domain keeps its existing rule.
+
 ## Loon Ver.1.12 (2026-10-03)
 
 - 同步 iPhone / Mac 本地配置中的通用调整，公开仓库继续只发布一份脱敏模板。
